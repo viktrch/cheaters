@@ -1,0 +1,6 @@
+venv
+script.py
+oop.py
+.idea
+*.csv
+*.db
